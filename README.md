@@ -1,5 +1,11 @@
 # django_graphql_movies
 
+> UPDATE 24/11/20: You may pass arrays as arguments to a mutation
+
+Source: https://stackoverflow.com/questions/40697597/graphql-mutation-that-accepts-an-array-of-dynamic-size-and-common-scalar-types-i
+
+---
+
 This is a sample application to accompany my blog post on [Stack Abuse](https://stackabuse.com/building-a-graphql-api-with-django/). This post introduces GraphQL, designs a schema for movies and details how to create the GraphQL API with Graphene and Django.
 
 Aside from the Django application, this repo also includes the following:
